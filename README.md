@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/drfmu5vsncidb4bn?svg=true)](https://ci.appveyor.com/project/smartcookiem/patternsfirsttask)
